@@ -4,7 +4,7 @@ zcoinclassic integration/staging tree
 https://zcoinclassic.com
 
  Copyright (c) 2009 - 2016 Bitcoin Developers
- 
+ Copyright (c) 2015 - 2017 zcoin Developers
  Copyright (c) 2015 - 2017 zcoinclassic Developers
 
 What is zcoinclassic?
